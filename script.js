@@ -6,10 +6,10 @@ const caixaResultado = document.querySelector('.caixa-resultados');
 
 const perguntas = [//abre lista de perguntas
     {//abre objeto de perguntas
-        enunciado:"pergunta 1",
-        alternativas:[
-            alternativa 1",
+        enunciado: "pergunta 1",
+        alternativas: [
+            " alternativa 1",
             "alternativa 2"
         ]
-    }//fecha objeto de perguntas 
+    } //fecha objeto de perguntas 
 ]   //fecha lista de perguntas
